@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3f64e21e-2ab4-41ec-9e93-a183cc70d034" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Product.java" afterDir="false" />
+    <list default="true" id="3f64e21e-2ab4-41ec-9e93-a183cc70d034" name="Changes" comment=" Product class and products attributes added">
+      <change afterPath="$PROJECT_DIR$/src/ProductManager.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Product.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,8 +62,16 @@
       <option name="presentableId" value="Default" />
       <updated>1672177066976</updated>
       <workItem from="1672177069541" duration="1432000" />
-      <workItem from="1672183374215" duration="320000" />
+      <workItem from="1672183374215" duration="3809000" />
     </task>
+    <task id="LOCAL-00001" summary=" Product class and products attributes added">
+      <created>1672184034078</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1672184034078</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -95,5 +104,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value=" Product class and products attributes added" />
+    <option name="LAST_COMMIT_MESSAGE" value=" Product class and products attributes added" />
   </component>
 </project>
