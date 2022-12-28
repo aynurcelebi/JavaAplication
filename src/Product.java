@@ -4,6 +4,7 @@ public class Product {
     private String description;
     private double price;
     private int stockAmount;
+    private String kod;
 
     public int getId(){
         return id;
@@ -37,4 +38,9 @@ public class Product {
     public void setStockAmount(int stockAmount) {
         this.stockAmount = stockAmount;
     }
+
+    public String getKod() {
+        return this.name.substring(1,0)+id;
+    }
+
 }
