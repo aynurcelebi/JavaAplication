@@ -1,4 +1,7 @@
 public class Product {
+    public Product(int id, String name, String description, double price, int stockAmount){
+        System.out.println("Yapıcı blok çalıştı..");
+    }
     private int id;
     private String name;
     private String description;

@@ -1,6 +1,6 @@
 public class ProductManager {
-    public ProductManager(Product product)//Constructor eklendi..
-    {
+    public void add(Product product){
         System.out.println("Ürün eklendi: " + product.getName());
+        System.out.println("Ürün stok adedi: " + product.getStockAmount());
     }
 }
