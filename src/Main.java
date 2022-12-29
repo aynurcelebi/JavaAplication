@@ -9,8 +9,8 @@ public class Main {
         product.setStockAmount(3);
         //product.getKod();
 
-        ProductManager productManager = new ProductManager();
-        productManager.add(product);
+        ProductManager productManager = new ProductManager(product);
+        //productManager.add(product);
 
 
 
