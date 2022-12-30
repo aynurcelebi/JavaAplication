@@ -8,6 +8,13 @@ public class Product {
     private int stockAmount;
     private String kod;
 
+    public Product(){
+        System.out.println("Costructor çalıştı..");
+    }
+    public Product(int id){
+        id=1;
+        System.out.println(id);
+    }
     public int getId() {
         return id;
     }

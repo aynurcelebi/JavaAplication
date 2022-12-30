@@ -1,7 +1,7 @@
 public class Main {
     public static void main(String[] args) {
 
-        Product product = new Product();
+        Product product = new Product(1);
 //        product.setId(1);
 //        product.setName("Laptop");
 //        product.setDescription("ASUS Laptop c-340");
