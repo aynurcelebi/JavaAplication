@@ -1,5 +1,4 @@
 package inheritance;
 
-public class Employee extends Person {
-    int salary;
+public class Employee {
 }
