@@ -1,7 +1,7 @@
 package inheritanceDemo;
 
 public class KrediUI {
-    public void krediHesapla(OgretmenKrediManager ogretmenKrediManager){
-        ogretmenKrediManager.hesapla();
+    public void krediHesapla(BaseKrediManager baseKrediManager){
+        baseKrediManager.hesapla();
     }
 }
