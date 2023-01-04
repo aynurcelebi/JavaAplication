@@ -1,12 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8c942cf4-6a95-4d0e-b106-c632dd838844" name="Changes" comment="Classes Defined">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/inheritanceDemo/BaseKrediManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/inheritanceDemo/BaseKrediManager.java" afterDir="false" />
+    <list default="true" id="8c942cf4-6a95-4d0e-b106-c632dd838844" name="Changes" comment="Method added.">
+      <change afterPath="$PROJECT_DIR$/src/inheritanceDemo/KrediUI.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/inheritanceDemo/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/inheritanceDemo/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/inheritanceDemo/OgretmenKrediManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/inheritanceDemo/OgretmenKrediManager.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/inheritanceDemo/TarimKrediManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/inheritanceDemo/TarimKrediManager.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -160,7 +157,14 @@
       <option name="project" value="LOCAL" />
       <updated>1672872933828</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Method added.">
+      <created>1672873427617</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1672873427618</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -190,6 +194,7 @@
     <MESSAGE value="." />
     <MESSAGE value="has inherited" />
     <MESSAGE value="Classes Defined" />
-    <option name="LAST_COMMIT_MESSAGE" value="Classes Defined" />
+    <MESSAGE value="Method added." />
+    <option name="LAST_COMMIT_MESSAGE" value="Method added." />
   </component>
 </project>
