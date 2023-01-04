@@ -1,9 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8c942cf4-6a95-4d0e-b106-c632dd838844" name="Changes" comment="has inherited">
-      <change beforePath="$PROJECT_DIR$/src/inheritance/Customer.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/inheritance/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/inheritance/Test.java" afterDir="false" />
+    <list default="true" id="8c942cf4-6a95-4d0e-b106-c632dd838844" name="Changes" comment="Classes Defined">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/inheritanceDemo/BaseKrediManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/inheritanceDemo/BaseKrediManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/inheritanceDemo/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/inheritanceDemo/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/inheritanceDemo/OgretmenKrediManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/inheritanceDemo/OgretmenKrediManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/inheritanceDemo/TarimKrediManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/inheritanceDemo/TarimKrediManager.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,7 +42,7 @@
     &quot;last_opened_file_path&quot;: &quot;C:/Users/Aynur/IdeaProjects/JavaAplication&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Test">
+  <component name="RunManager" selected="Application.inheritanceDemo.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="classesWithAttributes" />
@@ -60,8 +63,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="inheritanceDemo.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="inheritanceDemo.Main" />
+      <module name="classesWithAttributes" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="inheritanceDemo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.inheritanceDemo.Main" />
         <item itemvalue="Application.Test" />
         <item itemvalue="Application.Main" />
       </list>
@@ -129,7 +146,21 @@
       <option name="project" value="LOCAL" />
       <updated>1672871328794</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="has inherited">
+      <created>1672871583708</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1672871583708</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Classes Defined">
+      <created>1672872933828</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1672872933828</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -158,6 +189,7 @@
     <MESSAGE value="Constructor Added" />
     <MESSAGE value="." />
     <MESSAGE value="has inherited" />
-    <option name="LAST_COMMIT_MESSAGE" value="has inherited" />
+    <MESSAGE value="Classes Defined" />
+    <option name="LAST_COMMIT_MESSAGE" value="Classes Defined" />
   </component>
 </project>

@@ -1,4 +1,4 @@
 package inheritanceDemo;
 
-public class OgretmenKrediManager {
+public class OgretmenKrediManager extends BaseKrediManager{
 }
