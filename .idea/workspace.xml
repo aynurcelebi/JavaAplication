@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8c942cf4-6a95-4d0e-b106-c632dd838844" name="Changes" comment=".">
+      <change afterPath="$PROJECT_DIR$/src/abstracrtApp/Doctor.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/interfaceApp/SendMessageManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/interfaceApp/SendMessageManager.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/interfaceApp/TestClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/interfaceApp/TestClass.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -111,7 +110,7 @@
       <workItem from="1672440077548" duration="364000" />
       <workItem from="1674923807705" duration="47000" />
       <workItem from="1674924091531" duration="7105000" />
-      <workItem from="1675017424771" duration="1881000" />
+      <workItem from="1675017424771" duration="3335000" />
     </task>
     <task id="LOCAL-00001" summary=" Product class and products attributes added">
       <created>1672184034078</created>
@@ -225,7 +224,14 @@
       <option name="project" value="LOCAL" />
       <updated>1675018179199</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary=".">
+      <created>1675019629927</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1675019629927</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
