@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8c942cf4-6a95-4d0e-b106-c632dd838844" name="Changes" comment=".">
-      <change afterPath="$PROJECT_DIR$/src/interfaceApp/SendMessageManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interfaceApp/TestClass.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/interfaceApp/SendMessageManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/interfaceApp/SendMessageManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/interfaceApp/TestClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/interfaceApp/TestClass.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,7 +41,7 @@
     &quot;last_opened_file_path&quot;: &quot;C:/Users/Aynur/Desktop/Java-Training-firatulgay-master&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.TestClass">
+  <component name="RunManager" selected="Application.interfaceApp.TestClass">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="classesWithAttributes" />
@@ -62,19 +62,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="interfaceApp.TestClass" />
-      <module name="classesWithAttributes" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="interfaceApp.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="inheritanceDemo.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="inheritanceDemo.Main" />
       <module name="classesWithAttributes" />
@@ -88,9 +75,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="interfaceApp.TestClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="interfaceApp.TestClass" />
+      <module name="classesWithAttributes" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="interfaceApp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.TestClass" />
+        <item itemvalue="Application.interfaceApp.TestClass" />
         <item itemvalue="Application.inheritanceDemo.Main" />
         <item itemvalue="Application.Test" />
         <item itemvalue="Application.Main" />
@@ -111,7 +111,7 @@
       <workItem from="1672440077548" duration="364000" />
       <workItem from="1674923807705" duration="47000" />
       <workItem from="1674924091531" duration="7105000" />
-      <workItem from="1675017424771" duration="335000" />
+      <workItem from="1675017424771" duration="1881000" />
     </task>
     <task id="LOCAL-00001" summary=" Product class and products attributes added">
       <created>1672184034078</created>
@@ -211,7 +211,21 @@
       <option name="project" value="LOCAL" />
       <updated>1674929524519</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary=".">
+      <created>1675017769566</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1675017769566</updated>
+    </task>
+    <task id="LOCAL-00016" summary=".">
+      <created>1675018179199</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1675018179199</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
