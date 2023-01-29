@@ -3,13 +3,13 @@ package arrays;
 public class Test {
     public static void main(String[] args) {
 
-        int[] arrDizi = new int[5];
-        arrDizi[0] = 28;
-        arrDizi[arrDizi.length - 1] = 234;
+        Ogretmen[] ogretmenDizisi = new Ogretmen[4];
+        ogretmenDizisi[0] = new Ogretmen();
+        ogretmenDizisi[1] = new Ogretmen();
 
-
-        for (int i = 0; i < arrDizi.length ; i++) {
-            System.out.println(i);
+        for(Ogretmen ogretmen: ogretmenDizisi){
+            System.out.println(ogretmen.getAdi());
         }
+
     }
 }
