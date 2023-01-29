@@ -8,7 +8,10 @@ public class Test {
         ogretmenDizisi[1] = new Ogretmen();
 
         for(Ogretmen ogretmen: ogretmenDizisi){
-            System.out.println(ogretmen.getAdi());
+            if(ogretmen != null){
+                System.out.println(ogretmen.getAdi());
+            }
+
         }
 
     }
