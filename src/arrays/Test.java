@@ -7,12 +7,13 @@ public class Test {
         ogretmenDizisi[0] = new Ogretmen();
         ogretmenDizisi[1] = new Ogretmen();
 
-        for(Ogretmen ogretmen: ogretmenDizisi){
-            if(ogretmen != null){
-                System.out.println(ogretmen.getAdi());
+        for (Ogretmen ogretmen : ogretmenDizisi) {
+            if (ogretmen != null) {
+                ogretmen.getAdi();
+                ogretmen.getYasi();
             }
 
-        }
 
+        }
     }
 }

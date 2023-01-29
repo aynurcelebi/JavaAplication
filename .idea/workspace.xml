@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8c942cf4-6a95-4d0e-b106-c632dd838844" name="Changes" comment=".">
+      <change afterPath="$PROJECT_DIR$/src/arrays/Array.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/arrays/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/arrays/Test.java" afterDir="false" />
     </list>
@@ -41,12 +42,12 @@
   }
 }</component>
   <component name="RunManager" selected="Application.arrays.Test">
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="inheritance.Test" />
+    <configuration name="Array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="arrays.Array" />
       <module name="classesWithAttributes" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="inheritance.*" />
+          <option name="PATTERN" value="arrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -109,10 +110,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.arrays.Test" />
+        <item itemvalue="Application.Array" />
         <item itemvalue="Application.abstracrtApp.Main" />
         <item itemvalue="Application.interfaceApp.TestClass" />
         <item itemvalue="Application.inheritanceDemo.Main" />
-        <item itemvalue="Application.Test" />
       </list>
     </recent_temporary>
   </component>
@@ -130,7 +131,7 @@
       <workItem from="1672440077548" duration="364000" />
       <workItem from="1674923807705" duration="47000" />
       <workItem from="1674924091531" duration="7105000" />
-      <workItem from="1675017424771" duration="8275000" />
+      <workItem from="1675017424771" duration="9050000" />
     </task>
     <task id="LOCAL-00001" summary=" Product class and products attributes added">
       <created>1672184034078</created>
@@ -279,7 +280,21 @@
       <option name="project" value="LOCAL" />
       <updated>1675028385528</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary=".">
+      <created>1675030751781</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1675030751781</updated>
+    </task>
+    <task id="LOCAL-00023" summary=".">
+      <created>1675030979649</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1675030979649</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
