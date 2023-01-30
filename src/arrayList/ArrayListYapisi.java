@@ -1,6 +1,7 @@
 package arrayList;
 
 import java.util.ArrayList;
+import java.util.Collections;
 import java.util.List;
 
 public class ArrayListYapisi {
@@ -43,5 +44,23 @@ public class ArrayListYapisi {
         isimListesi.add("Ayşe");
         isimListesi.add("Fatma");
         System.out.println(isimListesi);
+
+        /**
+         * sort işlemi
+         */
+
+
+        List<Integer> integerList = new ArrayList<>();
+        integerList.add(5);
+        integerList.add(1);
+        integerList.add(12);
+        integerList.add(155);
+        integerList.add(61);
+        Collections.sort(integerList);
+
+
+        for (Integer integer : integerList) {
+            System.out.println(integer);
+        }
     }
 }

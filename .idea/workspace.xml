@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8c942cf4-6a95-4d0e-b106-c632dd838844" name="Changes" comment=".">
-      <change afterPath="$PROJECT_DIR$/src/arrayList/ArrayListYapisi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/arrayList/Ogretmen.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="8c942cf4-6a95-4d0e-b106-c632dd838844" name="Changes" comment="." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -132,7 +128,7 @@
       <workItem from="1674923807705" duration="47000" />
       <workItem from="1674924091531" duration="7105000" />
       <workItem from="1675017424771" duration="10048000" />
-      <workItem from="1675110967845" duration="338000" />
+      <workItem from="1675110967845" duration="667000" />
     </task>
     <task id="LOCAL-00001" summary=" Product class and products attributes added">
       <created>1672184034078</created>
@@ -302,7 +298,28 @@
       <option name="project" value="LOCAL" />
       <updated>1675031757366</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary=".">
+      <created>1675111335011</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1675111335011</updated>
+    </task>
+    <task id="LOCAL-00026" summary=".">
+      <created>1675111493657</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1675111493657</updated>
+    </task>
+    <task id="LOCAL-00027" summary=".">
+      <created>1675111594844</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1675111594845</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
