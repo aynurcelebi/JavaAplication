@@ -27,5 +27,21 @@ public class ArrayListYapisi {
         String str = list.get(0);
         System.out.println(str);
 
+        /**
+         * size
+         */
+        System.out.println("integer listesi uzunluğu: " + list.size());
+
+        /**
+         * Lİst verileri içerisinde dolanma
+         */
+
+        List<String> isimListesi = new ArrayList<>();
+        isimListesi.add("Murat");
+        isimListesi.add("Ahmet");
+        isimListesi.add("Mehmet");
+        isimListesi.add("Ayşe");
+        isimListesi.add("Fatma");
+        System.out.println(isimListesi);
     }
 }
