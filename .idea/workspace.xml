@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8c942cf4-6a95-4d0e-b106-c632dd838844" name="Changes" comment=".">
-      <change beforePath="$PROJECT_DIR$/src/mapYapisi/HasSet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/mapYapisi/HasSet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mapYapisi/HasMap.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,7 +39,7 @@
     &quot;last_opened_file_path&quot;: &quot;C:/Users/Aynur/Desktop/Java-Training-firatulgay-master&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.HasSet">
+  <component name="RunManager" selected="Application.HasMap">
     <configuration name="Array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="arrays.Array" />
       <module name="classesWithAttributes" />
@@ -66,8 +66,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HasSet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="mapYapisi.HasSet" />
+    <configuration name="HasMap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="mapYapisi.HasMap" />
       <module name="classesWithAttributes" />
       <extension name="coverage">
         <pattern>
@@ -79,12 +79,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="abstracrtApp.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="abstracrtApp.Main" />
+    <configuration name="HasSet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="mapYapisi.HasSet" />
       <module name="classesWithAttributes" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="abstracrtApp.*" />
+          <option name="PATTERN" value="mapYapisi.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -107,11 +107,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.HasMap" />
         <item itemvalue="Application.HasSet" />
         <item itemvalue="Application.ArrayListYapisi" />
         <item itemvalue="Application.arrays.Test" />
         <item itemvalue="Application.Array" />
-        <item itemvalue="Application.abstracrtApp.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -130,7 +130,7 @@
       <workItem from="1674923807705" duration="47000" />
       <workItem from="1674924091531" duration="7105000" />
       <workItem from="1675017424771" duration="10048000" />
-      <workItem from="1675110967845" duration="1337000" />
+      <workItem from="1675110967845" duration="1675000" />
     </task>
     <task id="LOCAL-00001" summary=" Product class and products attributes added">
       <created>1672184034078</created>
@@ -342,7 +342,14 @@
       <option name="project" value="LOCAL" />
       <updated>1675112124887</updated>
     </task>
-    <option name="localTasksCounter" value="31" />
+    <task id="LOCAL-00031" summary=".">
+      <created>1675112323302</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1675112323302</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
