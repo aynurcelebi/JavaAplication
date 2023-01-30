@@ -1,6 +1,7 @@
 package mapYapisi;
 
 import java.util.ArrayList;
+import java.util.HashSet;
 import java.util.List;
 
 public class HasSet {
@@ -23,5 +24,20 @@ public class HasSet {
             System.out.println("list içeirsindeki isim: " + isim);
         }
         System.out.println("Listin uzunluğu: " + stringList.size());
+
+        HashSet<String> stringHashSet = new HashSet<>();
+        stringHashSet.add("Fırat");
+        stringHashSet.add("Emre");
+        stringHashSet.add("Doruk");
+        stringHashSet.add("Doruk");
+
+        HashSet<Ogretmen> ss = new HashSet<>();
+        ss.add(new Ogretmen());
+        ss.add(new Ogretmen());
+
+        for (String isim : stringHashSet) {
+            System.out.println("hashset içeirsindeki isim: " + isim);
+        }
+        System.out.println("hashset uzunluğu: " + stringHashSet.size());
     }
 }
