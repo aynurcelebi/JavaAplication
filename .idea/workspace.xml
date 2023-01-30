@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8c942cf4-6a95-4d0e-b106-c632dd838844" name="Changes" comment=".">
-      <change afterPath="$PROJECT_DIR$/src/mapYapisi/HasSet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mapYapisi/HasSet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/mapYapisi/HasSet.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -130,7 +130,7 @@
       <workItem from="1674923807705" duration="47000" />
       <workItem from="1674924091531" duration="7105000" />
       <workItem from="1675017424771" duration="10048000" />
-      <workItem from="1675110967845" duration="998000" />
+      <workItem from="1675110967845" duration="1337000" />
     </task>
     <task id="LOCAL-00001" summary=" Product class and products attributes added">
       <created>1672184034078</created>
@@ -328,7 +328,21 @@
       <option name="project" value="LOCAL" />
       <updated>1675111728717</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary=".">
+      <created>1675111986967</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1675111986967</updated>
+    </task>
+    <task id="LOCAL-00030" summary=".">
+      <created>1675112124887</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1675112124887</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
