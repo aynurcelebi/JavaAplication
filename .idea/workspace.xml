@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8c942cf4-6a95-4d0e-b106-c632dd838844" name="Changes" comment=".">
-      <change afterPath="$PROJECT_DIR$/src/arrays/Array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arrayList/ArrayListYapisi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arrayList/Ogretmen.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/arrays/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/arrays/Test.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,13 +41,26 @@
     &quot;last_opened_file_path&quot;: &quot;C:/Users/Aynur/Desktop/Java-Training-firatulgay-master&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.arrays.Test">
+  <component name="RunManager" selected="Application.ArrayListYapisi">
     <configuration name="Array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="arrays.Array" />
       <module name="classesWithAttributes" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="arrays.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ArrayListYapisi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="arrayList.ArrayListYapisi" />
+      <module name="classesWithAttributes" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="arrayList.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -81,19 +94,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="inheritanceDemo.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="inheritanceDemo.Main" />
-      <module name="classesWithAttributes" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="inheritanceDemo.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="interfaceApp.TestClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="interfaceApp.TestClass" />
       <module name="classesWithAttributes" />
@@ -109,11 +109,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ArrayListYapisi" />
         <item itemvalue="Application.arrays.Test" />
         <item itemvalue="Application.Array" />
         <item itemvalue="Application.abstracrtApp.Main" />
         <item itemvalue="Application.interfaceApp.TestClass" />
-        <item itemvalue="Application.inheritanceDemo.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -131,7 +131,8 @@
       <workItem from="1672440077548" duration="364000" />
       <workItem from="1674923807705" duration="47000" />
       <workItem from="1674924091531" duration="7105000" />
-      <workItem from="1675017424771" duration="9050000" />
+      <workItem from="1675017424771" duration="10048000" />
+      <workItem from="1675110967845" duration="338000" />
     </task>
     <task id="LOCAL-00001" summary=" Product class and products attributes added">
       <created>1672184034078</created>
@@ -294,7 +295,14 @@
       <option name="project" value="LOCAL" />
       <updated>1675030979649</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary=".">
+      <created>1675031757366</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1675031757366</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -326,5 +334,12 @@
     <MESSAGE value="Method added." />
     <MESSAGE value="." />
     <option name="LAST_COMMIT_MESSAGE" value="." />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <inline-watch fileUrl="file://$PROJECT_DIR$/src/arrays/Test.java" line="12">
+        <watch expression="ogretmen" language="JAVA" />
+      </inline-watch>
+    </watches-manager>
   </component>
 </project>
