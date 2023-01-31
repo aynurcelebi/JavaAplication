@@ -2,6 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8c942cf4-6a95-4d0e-b106-c632dd838844" name="Changes" comment=".">
+      <change afterPath="$PROJECT_DIR$/src/RentACarProject/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RentACarProject/CarType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RentACarProject/Company.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RentACarProject/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RentACarProject/IRentACar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RentACarProject/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RentACarProject/RentACarImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RentACarProject/RentInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RentACarProject/RentType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RentACarProject/strategy/BmwRentStrategyIml.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RentACarProject/strategy/IRentStrategy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RentACarProject/strategy/MercedesRentStrategyImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RentACarProject/strategy/ToggRentStrategy.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -12,6 +25,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Enum" />
         <option value="Interface" />
         <option value="Class" />
       </list>
@@ -36,7 +50,8 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/Aynur/Desktop/RentACar"
+    "last_opened_file_path": "C:/Users/Aynur/Desktop/RentACar",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
   <component name="RunManager" selected="Application.HasMap">
@@ -133,6 +148,7 @@
       <workItem from="1675110967845" duration="2853000" />
       <workItem from="1675122279736" duration="504000" />
       <workItem from="1675177943119" duration="601000" />
+      <workItem from="1675184793473" duration="6605000" />
     </task>
     <task id="LOCAL-00001" summary=" Product class and products attributes added">
       <created>1672184034078</created>
@@ -358,7 +374,14 @@
       <option name="project" value="LOCAL" />
       <updated>1675112843109</updated>
     </task>
-    <option name="localTasksCounter" value="33" />
+    <task id="LOCAL-00033" summary=".">
+      <created>1675184832703</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1675184832703</updated>
+    </task>
+    <option name="localTasksCounter" value="34" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
