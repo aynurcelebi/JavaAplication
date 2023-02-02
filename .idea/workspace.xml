@@ -1,22 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8c942cf4-6a95-4d0e-b106-c632dd838844" name="Changes" comment=".">
-      <change afterPath="$PROJECT_DIR$/src/RentACarProject/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/RentACarProject/CarType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/RentACarProject/Company.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/RentACarProject/Customer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/RentACarProject/IRentACar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/RentACarProject/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/RentACarProject/RentACarImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/RentACarProject/RentInfo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/RentACarProject/RentType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/RentACarProject/strategy/BmwRentStrategyIml.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/RentACarProject/strategy/IRentStrategy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/RentACarProject/strategy/MercedesRentStrategyImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/RentACarProject/strategy/ToggRentStrategy.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="8c942cf4-6a95-4d0e-b106-c632dd838844" name="Changes" comment="." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -148,7 +133,7 @@
       <workItem from="1675110967845" duration="2853000" />
       <workItem from="1675122279736" duration="504000" />
       <workItem from="1675177943119" duration="601000" />
-      <workItem from="1675184793473" duration="6605000" />
+      <workItem from="1675184793473" duration="7280000" />
     </task>
     <task id="LOCAL-00001" summary=" Product class and products attributes added">
       <created>1672184034078</created>
@@ -381,7 +366,14 @@
       <option name="project" value="LOCAL" />
       <updated>1675184832703</updated>
     </task>
-    <option name="localTasksCounter" value="34" />
+    <task id="LOCAL-00034" summary=".">
+      <created>1675202664743</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1675202664743</updated>
+    </task>
+    <option name="localTasksCounter" value="35" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
